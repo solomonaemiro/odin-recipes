@@ -1,2 +1,3 @@
-# solomonrepo
-solomon's Repository
+# Odin-recipes project
+using only html
+
